@@ -1,2 +1,9 @@
 Taking away all the falsehood and ego. The journey of liar begins from the self created hell. Iff I am certain of 1 thing in this life. It is that I will fight the hardest fight of my life with my greatest nemesis. 
 MYSELF
+
+#############################################
+
+----C----
+1. Accessing Arrays using a[index] and *(a + index)
+2. Using pointer to add elements into the array.
+3. Using pointers to find min and max within an array
